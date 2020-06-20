@@ -8,14 +8,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no maximum-scale=0">
 	<title>Dashboard Template · Bootstrap</title>
-	<!-- Bootstrap core CSS -->
-	<link rel="stylesheet" href="/assets/css/mystyle.css" />
-	<!-- Custom styles for this template -->
-	<link href="/assets/css/dashboard.css" rel="stylesheet">
 	<link rel="stylesheet" href="/fontawesome4/css/font-awesome.min.css" />
 	<script src="/js/jquery-3.4.1.slim.min.js"></script>
 	<link rel="stylesheet" href="/bootstrap/4/css/bootstrap.min.css" />
 	<script src="/dmxAppConnect/dmxBootstrap4Collapse/dmxBootstrap4Collapse.js" defer=""></script>
+	<link href="/assets/css/dashboard.css" rel="stylesheet">
 </head>
 
 <body is="dmx-app" id="dashboard">
